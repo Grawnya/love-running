@@ -1,5 +1,5 @@
 # Love Running Static Website
-==============================
+====
 
 ### Portfolio Project, emphasising the use of **HTML** and **CSS**
 
