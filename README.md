@@ -4,7 +4,7 @@
 
 A website for an imaginery running club based in Dublin, Ireland.
 Broken down into the following pages:
-⋅⋅* Home - basic details of the running club including it's ethos and fuutre meet up dates.
+⋅⋅* Home - basic details of the running club including it's ethos and future meet up dates.
 ⋅⋅* Gallery - sample pictures of the running club at different running events.
 ⋅⋅* Sign Up - form to join the club on a run.
 
